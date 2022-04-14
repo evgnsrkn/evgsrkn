@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @evgsrkn
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning django, drf, solidity, truffle
+- 📫 How to reach me sorokin.lgu@gmail.com
